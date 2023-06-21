@@ -4,7 +4,7 @@
 
 /// "{"resultCode":101,"device":{"deviceId":"macaddress","deviceName":"Teszt gép PI","active":false,"lastDeviceLoginDate":null,"comments":"","applications":null}}"
 /// https://thecodeprogram.com/how-to-use-json-data-with-qt-c--
-
+/// aaa
 #include "webapi/deviceresponse.h"
 
 
